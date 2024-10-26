@@ -1,10 +1,11 @@
 {
-  "version": 2,
+  "version": 1,
   "rules": [
     {
       "domain_suffix": [
         "btnull.net",
-        "agedm.org"
+        "agedm.org",
+        "steamcontent.com"
       ]
     }
   ]
