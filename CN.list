@@ -3,12 +3,15 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,gying.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mihoyo
+DOMAIN-KEYWORD,gying
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,198.18.4.0/24
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
